@@ -1,0 +1,7 @@
+apiVersion: cory.github.com/v1alpha1
+kind: AirFactoryService
+metadata:
+  name: example-airfactoryservice
+spec:
+  # Add fields here
+  size: 3
